@@ -7,6 +7,9 @@
 👀 You will find small web apps, utility code, and projects from my time at Juno College
 
 Feel free to reach me at:
-📧 evanyuekwan@gmail.com
-🧳 https://www.linkedin.com/in/evanyuekwan/
-🐦 @evanyuekwan
+
+- 📧 evanyuekwan@gmail.com
+
+- 🧳 https://www.linkedin.com/in/evanyuekwan/
+
+- 🐦 @evanyuekwan
