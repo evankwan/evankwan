@@ -1,14 +1,20 @@
-👋 Hello! I'm Evan
+# 👋 Hello! I'm Evan
 
-🌱 Currently enrolled in Juno College's immersive Web Development Bootcamp - Cohort 33
+### 🖥 I am a front-end web developer
 
-🌱 I'm currently learning Sass, JavaScript, and React
+### 👨‍🎓 Graduated Juno College's Immersive Web Development Bootcamp - Cohort 33
 
-👀 You will find small web apps, utility code, and projects from my time at Juno College
+### 👷‍♂️ Built projects using React, SCSS, and Firebase
+
+### 🌱 Currently learning JavaScript Testing and MERN
+
+### 👀 You will find small web apps, utility code, and projects from my time at Juno College
 
 Feel free to reach me at:
 
 - 📧 evanyuekwan@gmail.com
+
+- 💼 www.evankwan.com
 
 - 🧳 https://www.linkedin.com/in/evanyuekwan/
 
