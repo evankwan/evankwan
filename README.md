@@ -4,9 +4,9 @@
 
 ### 👨‍🎓 Graduated Juno College's Immersive Web Development Bootcamp - Cohort 33
 
-### 👷‍♂️ Built projects using React, SCSS, and Firebase
+### 👷‍♂️ I build projects using React, SCSS, Firebase, and Jest
 
-### 🌱 Currently learning JavaScript Testing and MERN
+### 🌱 Currently learning TypeScript and MERN
 
 ### 👀 You will find small web apps, utility code, and projects from my time at Juno College
 
@@ -14,7 +14,7 @@ Feel free to reach me at:
 
 - 📧 evanyuekwan@gmail.com
 
-- 💼 www.evankwan.com
+- 💼 https://evankwan.com
 
 - 🧳 https://www.linkedin.com/in/evanyuekwan/
 
