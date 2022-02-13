@@ -4,9 +4,9 @@
 
 ### 👨‍🎓 Graduated Juno College's Immersive Web Development Bootcamp - Cohort 33
 
-### 👷‍♂️ I build projects using React, SCSS, Firebase, and Jest
+### 👷‍♂️ I build projects using Vue, SCSS, Firebase, Netlify and Jest
 
-### 🌱 Currently learning TypeScript and MERN
+### 🌱 Currently learning Node and deepening my understanding of front-end design patterns
 
 ### 👀 You will find small web apps, utility code, and projects from my time at Juno College
 
