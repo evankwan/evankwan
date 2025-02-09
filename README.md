@@ -2,19 +2,15 @@
 
 ### 🖥 I am a front-end web developer
 
-### 👨‍🎓 Graduated Juno College's Immersive Web Development Bootcamp - Cohort 33
+### 👷‍♂️ I build projects using Vue, React, SCSS, Firebase, Netlify, Tauri, and many more technologies
 
-### 👷‍♂️ I build projects using Vue, SCSS, Firebase, Netlify and Jest
-
-### 🌱 Currently learning Node and deepening my understanding of front-end design patterns
+### 🌱 Currently messing around with Tauri & Vue to build desktop apps using Web frameworks
 
 ### 👀 You will find small web apps, utility code, and projects from my time at Juno College
 
 Feel free to reach me at:
 
 - 📧 evanyuekwan@gmail.com
-
-- 💼 https://evankwan.com
 
 - 🧳 https://www.linkedin.com/in/evanyuekwan/
 
