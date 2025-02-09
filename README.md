@@ -13,5 +13,3 @@ Feel free to reach me at:
 - 📧 evanyuekwan@gmail.com
 
 - 🧳 https://www.linkedin.com/in/evanyuekwan/
-
-- 🐦 @evanyuekwan
